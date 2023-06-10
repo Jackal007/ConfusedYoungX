@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"type":"file","file":"财务自由/追踪花费 Track where your money goes.md","id":"d27aa6704a5787eb","x":200,"y":0,"width":380,"height":116},
+		{"type":"file","file":"财务自由/减少不必要的开销 Spend less on useless.md","id":"62c4e7ea07a69d04","x":260,"y":180,"width":400,"height":109},
+		{"type":"file","file":"财务自由/偿还贷款Pay off debt asap.md","id":"af2e865435982fe3","x":200,"y":332,"width":280,"height":142},
+		{"type":"file","file":"财务自由/养成储蓄的习惯Save supplies money.md","id":"6e9775b6861b2275","x":-155,"y":500,"width":355,"height":126},
+		{"type":"file","file":"财务自由/帮助更多的人赚钱Sources of income.md","id":"c4a04592c32e3dda","x":-520,"y":363,"width":338,"height":111},
+		{"type":"file","file":"财务自由/拒绝周期性通货膨胀Avoid lifetyle inflation.md","id":"74e14b98d27b0cdf","x":-603,"y":198,"width":400,"height":134},
+		{"type":"file","file":"财务自由/投资未来Invest in the future.md","id":"63da34f2ce3abf2f","x":-687,"y":-52,"width":334,"height":136},
+		{"type":"file","file":"财务自由/设定目标 Step your goals.md","id":"64723a7dce7a0f0b","x":100,"y":-280,"width":360,"height":168},
+		{"type":"file","file":"财务自由/认清自己 Know where you stand.md","id":"96b8b3b088f8cdcc","x":-353,"y":-324,"width":360,"height":212}
+	],
+	"edges":[
+		{"id":"454fe24bd8d0bb03","fromNode":"96b8b3b088f8cdcc","fromSide":"right","toNode":"64723a7dce7a0f0b","toSide":"left"},
+		{"id":"b1d1a7066128ec62","fromNode":"d27aa6704a5787eb","fromSide":"right","toNode":"62c4e7ea07a69d04","toSide":"right"},
+		{"id":"7f98a3cd58f12d58","fromNode":"62c4e7ea07a69d04","fromSide":"bottom","toNode":"af2e865435982fe3","toSide":"right"},
+		{"id":"b1cb61534012764e","fromNode":"af2e865435982fe3","fromSide":"bottom","toNode":"6e9775b6861b2275","toSide":"right"},
+		{"id":"35e4d400681370f8","fromNode":"6e9775b6861b2275","fromSide":"left","toNode":"c4a04592c32e3dda","toSide":"bottom"},
+		{"id":"0b7d3b2d649d4482","fromNode":"c4a04592c32e3dda","fromSide":"left","toNode":"74e14b98d27b0cdf","toSide":"left"},
+		{"id":"16eb3f1e146f3bca","fromNode":"74e14b98d27b0cdf","fromSide":"top","toNode":"63da34f2ce3abf2f","toSide":"bottom"},
+		{"id":"2e8cf860fec4d53e","fromNode":"63da34f2ce3abf2f","fromSide":"top","toNode":"96b8b3b088f8cdcc","toSide":"left"},
+		{"id":"338aacb62cea8e10","fromNode":"64723a7dce7a0f0b","fromSide":"bottom","toNode":"d27aa6704a5787eb","toSide":"top"}
+	]
+}

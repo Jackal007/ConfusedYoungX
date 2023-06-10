@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "aeddd5c27da89bea",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dadaf5ba30d050f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f2c08e3373ce86f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "《置身事内》.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fdeb9803b90bca73",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f18d3ff696bfe0f6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0413a2e66f906e6f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "57e72478c305a7d5",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "0bb5af28d32aa3de",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "right": {
+    "id": "072860177fcb38df",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ecb65ab9dc8e0812",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "《置身事内》.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1ab20859fa0f3ad0",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "《置身事内》.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "46491f48d3d02047",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "《置身事内》.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "3f2c08e3373ce86f",
+  "lastOpenFiles": [
+    "创业前置条件.md",
+    "创业步骤.md",
+    "财务自由/养成储蓄的习惯Save supplies money.md",
+    "财务自由/设定目标 Step your goals.md",
+    "财务自由/财务自由的步骤.canvas",
+    "财务自由/投资未来Invest in the future.md",
+    "财务自由/偿还贷款Pay off debt asap.md",
+    "财务自由/帮助更多的人赚钱Sources of income.md",
+    "财务自由/减少不必要的开销 Spend less on useless.md",
+    "财务自由/认清自己 Know where you stand.md",
+    "财务自由/追踪花费 Track where your money goes.md",
+    "财务自由/拒绝周期性通货膨胀Avoid lifetyle inflation.md",
+    "《低风险创业》.md",
+    "《孙子兵法》.md",
+    "《纳瓦尔宝典》.md",
+    "《三十六计》.md",
+    "《有限和无限的游戏》.md",
+    "《俞军产品方法论》.md",
+    "《复盘网飞》.md",
+    "《毛泽东选集》.md",
+    "MTP Massive transform Purpose指数型增长公司.md",
+    "《创新者的窘境》.md",
+    "《小米创业思考》.md",
+    "《置身事内》.md"
+  ]
+}
