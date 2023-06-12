@@ -14,5 +14,8 @@
 - 用户界面（Interfaces）
 - 仪表盘（Dashboards）
 - 实验（Experimentation）
+<<<<<<< HEAD:创业一番伟大事业/MTP Massive transform Purpose指数型增长公司.md
 - 自治（Autonomy）
-- 社交技术（Social Technologies）
+=======
+- 自治（Autonomy）
+>>>>>>> main:MTP Massive transform Purpose指数型增长公司.md
