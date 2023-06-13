@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "《置身事内》.md",
+                "file": "待办.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "072860177fcb38df",
@@ -86,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "《置身事内》.md",
+            "file": "待办.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "《置身事内》.md",
+            "file": "待办.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "《置身事内》.md"
+            "file": "待办.md"
           }
         }
       }
@@ -132,7 +131,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3f2c08e3373ce86f",
+  "active": "f18d3ff696bfe0f6",
   "lastOpenFiles": [
     "创业前置条件.md",
     "创业步骤.md",
