@@ -1,0 +1,2 @@
+minimum viable product
+最小化可行产品
