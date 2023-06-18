@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"110b1431bac7855e","x":-272,"y":-89,"width":686,"height":388,"type":"group","label":"车联网服务"},
+		{"id":"fa32ab0e8262b33c","x":71,"y":-23,"width":313,"height":164,"type":"group","label":"数据应用"},
+		{"id":"d47415d2e2d251d3","x":-245,"y":-23,"width":295,"height":164,"type":"group","label":"业务应用"},
+		{"id":"031a20e8019e73cc","x":99,"y":215,"width":250,"height":50,"type":"text","text":"车辆接入"},
+		{"id":"84d8b3613d3bca84","x":-222,"y":215,"width":244,"height":50,"type":"text","text":"APP接入"}
+	],
+	"edges":[]
+}

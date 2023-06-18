@@ -1,0 +1,2 @@
+
+ESP（Electronic Stability Program）车身电子稳定控制系统，车身电子稳定控制系统。ESP可以使车辆在各种状况下保持最佳的稳定性，在转向过度或转向不足的情形下效果更加明显。ESP是博世公司的专门叫法，譬如日产的车辆行驶动力学调整系统VDC（Vehicle Dynamic Control ），丰田的车辆稳定控制系统VSC（Vehicle Stability Control ），本田的车辆稳定性控制系统VSA（Vehicle Stability Assist Control），宝马的动态稳定控制系统DSC（Dynamic Stability Control ）等。现如今很多中高端合资车、国产车都会配备这个模块。

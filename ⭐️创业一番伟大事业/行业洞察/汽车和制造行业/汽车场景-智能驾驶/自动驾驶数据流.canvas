@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"type":"group","id":"b749e93271a4f1bf","x":93,"y":300,"width":767,"height":624,"label":"研发业务区"},
+		{"type":"group","id":"9f7a8bf0775c5602","x":93,"y":-200,"width":767,"height":439,"label":"测绘区"},
+		{"type":"group","id":"e162160a760a3fe9","x":960,"y":-200,"width":240,"height":1124,"label":"网络中继区"},
+		{"type":"group","id":"a5d4bfb742652c3a","x":-480,"y":300,"width":360,"height":624,"label":"合规办公室"},
+		{"type":"file","file":"D-宇宙知识记录/行业知识/汽车和制造行业/汽车场景-智能驾驶/自动驾驶数据管理.md","id":"494536aa21c2dcdd","x":113,"y":584,"width":233,"height":80},
+		{"type":"file","file":"D-宇宙知识记录/行业知识/汽车和制造行业/汽车场景-智能驾驶/自动驾驶数据标注.md","id":"39bb389ddf7bcbb9","x":113,"y":704,"width":233,"height":84},
+		{"type":"file","file":"D-宇宙知识记录/行业知识/汽车和制造行业/汽车场景-智能驾驶/自动驾驶模型训练.md","id":"a29f0f5a7141c9f6","x":113,"y":824,"width":236,"height":80},
+		{"type":"file","file":"D-宇宙知识记录/行业知识/汽车和制造行业/汽车场景-智能驾驶/自动驾驶算法评估.md","id":"66788c14856c1de9","x":392,"y":708,"width":233,"height":80},
+		{"type":"file","file":"D-宇宙知识记录/行业知识/汽车和制造行业/汽车场景-智能驾驶/自动驾驶测绘区.md","id":"2ec683432df9a1f6","x":113,"y":-160,"width":384,"height":150},
+		{"type":"file","file":"D-宇宙知识记录/行业知识/汽车和制造行业/汽车场景-智能驾驶/自动驾驶数据脱敏脱密.md","id":"d44b687f8d182de4","x":113,"y":67,"width":307,"height":120},
+		{"type":"file","file":"D-宇宙知识记录/行业知识/汽车和制造行业/汽车场景-智能驾驶/自动驾驶数据采集.md","id":"b89cf9dba23cf32c","x":-320,"y":67,"width":267,"height":120},
+		{"type":"file","file":"D-宇宙知识记录/行业知识/汽车和制造行业/汽车场景-智能驾驶/自动驾驶业务研发区.md","id":"ef266720bac4382b","x":113,"y":320,"width":613,"height":220},
+		{"type":"file","file":"D-宇宙知识记录/行业知识/汽车和制造行业/汽车场景-智能驾驶/自动驾驶SIL仿真（software in loop）.md","id":"9dffeb0570f7a5d4","x":389,"y":580,"width":236,"height":84},
+		{"type":"text","text":"VDI","id":"9ee28a0982733700","x":-400,"y":460,"width":160,"height":80},
+		{"id":"d17048baa058cb3d","x":389,"y":824,"width":236,"height":80,"type":"file","file":"D-宇宙知识记录/行业知识/汽车和制造行业/汽车场景-智能驾驶/自动驾驶场景构建.md"},
+		{"type":"file","file":"D-宇宙知识记录/行业知识/汽车和制造行业/汽车场景-智能驾驶/自动驾驶网络中继区.md","id":"25b8f10b215a370e","x":975,"y":613,"width":172,"height":276},
+		{"id":"0f4e6a5c6bceb4cf","x":513,"y":67,"width":273,"height":120,"type":"file","file":"D-宇宙知识记录/行业知识/汽车和制造行业/汽车场景-智能驾驶/自动驾驶HIL仿真测试.md"}
+	],
+	"edges":[
+		{"id":"8fa490ea31cbf5dd","fromNode":"b89cf9dba23cf32c","fromSide":"right","toNode":"d44b687f8d182de4","toSide":"left"},
+		{"id":"052fd031dded586c","fromNode":"d44b687f8d182de4","fromSide":"bottom","toNode":"494536aa21c2dcdd","toSide":"left"},
+		{"id":"73cecc67894fb4e3","fromNode":"494536aa21c2dcdd","fromSide":"left","toNode":"39bb389ddf7bcbb9","toSide":"left"},
+		{"id":"638231529ed95670","fromNode":"39bb389ddf7bcbb9","fromSide":"left","toNode":"a29f0f5a7141c9f6","toSide":"left"},
+		{"id":"bf558a46c23cd84f","fromNode":"a29f0f5a7141c9f6","fromSide":"right","toNode":"9dffeb0570f7a5d4","toSide":"left"},
+		{"id":"09befe2f7a9f8370","fromNode":"9dffeb0570f7a5d4","fromSide":"right","toNode":"66788c14856c1de9","toSide":"right"},
+		{"id":"5f223065046278ed","fromNode":"9ee28a0982733700","fromSide":"right","toNode":"39bb389ddf7bcbb9","toSide":"left","label":"VPN/专线"}
+	]
+}
