@@ -23,12 +23,8 @@
             "id": "9871fd0137bb9e56",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⭐️创业一番伟大事业/创业理论&模型/创新核算.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "⭐️创业一番伟大事业/创业理论&模型/创新核算.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "⭐️创业一番伟大事业/创业理论&模型/创新核算.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,9 +120,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "⭐️创业一番伟大事业/创业理论&模型/创新核算.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -144,35 +136,35 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9871fd0137bb9e56",
+  "active": "f18d3ff696bfe0f6",
   "lastOpenFiles": [
-    "⭐️创业一番伟大事业/创业理论&模型/关于组织管理.md",
+    "⭐️创业一番伟大事业/项目管理",
+    "⭐️创业一番伟大事业/创业理论&模型/精益思想.md",
+    "⭐️创业一番伟大事业/《精益思想》.md",
+    "⭐️创业一番伟大事业/创业理论&模型/信念飞跃.md",
+    "⭐️创业一番伟大事业/创业理论&模型/技术产品生命周期定律.md",
+    "⭐️创业一番伟大事业/创业理论&模型/转型.md",
+    "⭐️创业一番伟大事业/创业理论&模型/增长引擎.md",
+    "⭐️创业一番伟大事业/《精益创业》.md",
+    "待办.md",
+    "⭐️创业一番伟大事业/创业理论&模型/同期群分析.md",
     "⭐️创业一番伟大事业/创业理论&模型/创新核算.md",
+    "⭐️创业一番伟大事业/创业理论&模型/关于组织管理.md",
     "⭐️创业一番伟大事业/创业理论&模型/应该关注的指标.md",
     "⭐️创业一番伟大事业/创业理论&模型/创业包含的内容.md",
     "⭐️创业一番伟大事业/创业理论&模型/现实扭曲力场.md",
     "⭐️创业一番伟大事业/如何应对idea被盗用的风险.md",
-    "待办.md",
     "readme.md",
     "⭐️创业一番伟大事业/创业理论&模型/MVP.md",
     "⭐️创业一番伟大事业/创业理论&模型/用户画像.md",
     "⭐️创业一番伟大事业/创业理论&模型/价值创建和价值破坏.md",
     "⭐️创业一番伟大事业/《制定B计划》getting to planB.md",
-    "⭐️创业一番伟大事业/《精益创业》.md",
     "⭐️创业一番伟大事业/创业理论&模型/有效资本企业.md",
     "⭐️创业一番伟大事业/1C3CB72F-E736-4021-B091-1FC485F6CB93.jpeg",
     "⭐️创业一番伟大事业/行业洞察/汽车和制造行业/汽车组成/汽车电气部件/ECU（Electronic Control Unit）/LMU 高精度定位模块.md",
     "⭐️创业一番伟大事业/行业洞察/汽车和制造行业/汽车组成/汽车电气部件/ECU（Electronic Control Unit）/ESP（Electronic Stability Program）车身电子稳定控制系统.md",
     "⭐️创业一番伟大事业/行业洞察/汽车和制造行业/汽车组成/汽车电气部件/ECU（Electronic Control Unit）/VCU（Vehicle Control Unit）整车控制器.md",
     "⭐️创业一番伟大事业/行业洞察/汽车和制造行业/汽车组成/汽车电气部件/ECU（Electronic Control Unit）/APA 自动泊车辅助系统.md",
-    "⭐️创业一番伟大事业/行业洞察/汽车和制造行业/汽车组成/汽车电气部件/ECU（Electronic Control Unit）/EMS（Engine Mangement System）发动机管理系统.md",
-    "⭐️创业一番伟大事业/行业洞察/汽车和制造行业/汽车组成/汽车电气部件/ECU（Electronic Control Unit）/DMS 驾驶员监控系统.md",
-    "⭐️创业一番伟大事业/行业洞察/汽车和制造行业/汽车组成/汽车电气部件/ECU（Electronic Control Unit）/BCM（Body Control Module）车身控制模块.md",
-    "⭐️创业一番伟大事业/行业洞察/汽车和制造行业/汽车组成/汽车电气部件/ECU（Electronic Control Unit）/BMS（Battery Management System）电池管理系统.md",
-    "⭐️创业一番伟大事业/行业洞察/汽车和制造行业/汽车组成/汽车电气部件/ECU（Electronic Control Unit）/TCU（Transmision Control Unit）自动变速箱控制单元）.md",
-    "⭐️创业一番伟大事业/行业洞察/汽车和制造行业/汽车组成/汽车电气部件/ECU（Electronic Control Unit）/混合动力监督控制器（HSC）.md",
-    "⭐️创业一番伟大事业/行业洞察/汽车和制造行业/汽车组成/汽车电气部件/ECU（Electronic Control Unit）/IVI（In-Vehicle Infotainment）载信息娱乐系统.md",
-    "⭐️创业一番伟大事业/行业洞察/汽车和制造行业/汽车玩家&生态/汽车组织&联盟/德国汽车工业协会（VDA）.md",
     "⭐️创业一番伟大事业/行业洞察/汽车和制造行业/汽车组成/汽车电气部件/ECU（Electronic Control Unit）",
     "⭐️创业一番伟大事业/行业洞察/汽车和制造行业/汽车玩家&生态/汽车组织&联盟",
     "⭐️创业一番伟大事业/行业洞察/汽车和制造行业/汽车组成/汽车电气部件",
